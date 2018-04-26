@@ -1,0 +1,6 @@
+spring:
+# change the application name for your project name , this name is reserved for the maven archetype code generation
+  application:
+    name: Application
+
+---
